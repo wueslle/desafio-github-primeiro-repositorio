@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 Desafio de projeto sobre git/github DIO
 
 ## Link engraçado
